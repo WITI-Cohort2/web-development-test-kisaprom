@@ -1,0 +1,9 @@
+       Nabawanga Shadiah 2022/DCSE/023/SS
+f) semantic elements, these are elements with meaning. 
+Examples; <head>, <body>, <aside>, <main>, <section>
+e) Web accessibility refers to the development of websites so as to
+ make them accessible by all groups of people including the disabled.
+ Examples:
+ Use of meaningful images
+ Application of landmarks to a webpage
+ Use of semantic elements in a page

@@ -1,0 +1,14 @@
+/* Nabawanga Shadiah 2022/DCSE/023/SS */
+#form{
+    background-color: blue;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-template-rows: 3fr;
+    grid-column: 2;
+    grid-row: 1;
+    color: aliceblue;
+}
+input{
+    padding-left: 30px;
+    padding-right: 30px;
+}
